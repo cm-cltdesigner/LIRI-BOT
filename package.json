@@ -1,0 +1,22 @@
+{
+  "name": "Week6-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "key.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "dotenv": "^7.0.0",
+    "file-system": "^2.2.2",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "riak-js": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
