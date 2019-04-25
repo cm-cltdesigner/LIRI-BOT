@@ -11,13 +11,13 @@ In this assignment, LIRI was created. LIRI is like iPhone's SIRI. However, while
 
 #Node Commands
 Concert-This
-![](https://gph.is/g/4VqKl3Z)
+![](concert-this.gif)
 
 Spotify-This-Song
-![](https://gph.is/g/E13DJxZ)
+![](spotify-this-song.gif)
 
 Movie-This
-![](https://gph.is/g/4VqKpYZ)
+![](movie-this.gif)
 
 Do-What-It-Says
-![](https://gph.is/g/aKmPgD4)
+![](do-what-it-says.gif)
